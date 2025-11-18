@@ -10,3 +10,6 @@ For some tips in formatting text in readme file, refer to https://docs.github.co
 
 # References
 Provide the references that you have used to support your assignment. 
+
+Hotel (odoo) 
+https://www.odoo.com/industries/hotel?network=o&utm_source=bing&utm_medium=cpc&utm_campaign=HK-SG-EN-Industry&utm_term=hotel%20management%20softwareutm_gclid=&msclkid=46189f6769421bf9deb1f6769aa6fa6f
